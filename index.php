@@ -75,12 +75,10 @@
                 <h1>CONTACTUS</h1>
                 <div class="line4"></div>
     </section>
-
     <section class="footer">
         <p>GOMA, RDC | Phone: (+243) 975 583 990 | Email: aubinsimpeze01@gmail.com</p>
         <p>Copyright &copy 2022</p>
     </section>
-
     <script>
         const mobileNav = document.querySelector('.mobile-nav')
         const menuBtn = document.querySelector('.menu-btn')
